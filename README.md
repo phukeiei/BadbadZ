@@ -1,5 +1,5 @@
 # BadbadZ
-1. INTRODUCTION : รายชื่อสมาชิกภายในแกงค์ของ  BAD BADTZ GANG
+1. INTRODUCTION : ชอบตัวละครที่ชื่อBAD BADTZ-MARU เลยทำรายชื่อสมาชิกภายในแกงค์ของ  BAD BADTZ GANG
 2. COMPONENTS : องค์ประกอบที่ใช้พัฒนา มีดังนี้
 - Fragment
 - Recycler View
