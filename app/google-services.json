@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "836043272751",
+    "firebase_url": "https://badzbad-95839.firebaseio.com",
+    "project_id": "badzbad-95839",
+    "storage_bucket": "badzbad-95839.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836043272751:android:e1ba52625aaf1967328cda",
+        "android_client_info": {
+          "package_name": "com.example.badzbad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836043272751-g0e4jughkn7p9b9gcu6gva34mmjodspi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL7U933nQzfZ346giqz8E3w6sEAe-ZLMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836043272751-g0e4jughkn7p9b9gcu6gva34mmjodspi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:id="@+id/_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="-50dp"
+        android:text="Name"
+        android:textColor="#FFFFFF"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/_det"
+        android:layout_width="373dp"
+        android:layout_height="276dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="150dp"
+        android:text="description"
+        android:textColor="#FFFFFF"
+        android:textSize="16dp"
+        android:textStyle="bold"/>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="185dp"
+        android:layout_height="193dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="-180dp"
+        android:src="@mipmap/ic_launcher" />
+
+
+
+</FrameLayout>
