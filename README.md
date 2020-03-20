@@ -5,7 +5,6 @@
 - Recycler View
 - Firebase (Facebook Authentication)
 - Dialog
-- Firebase (Realtime Database)
 
 3. SCREENSHOT
 3.1 หน้า Login
